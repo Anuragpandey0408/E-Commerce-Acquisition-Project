@@ -1,6 +1,6 @@
 # E-Commerce Acquisition Project
 
-![Project Banner](https://global.discourse-cdn.com/uipath/optimized/3X/d/9/d9d24de1b9e6bb3684ca112040867b96859e20bc_2_690x387.png)
+![Project Banner](https://miro.medium.com/v2/resize:fit:1142/1*2ApVG8ae9FImPgkPLvKAZA.png)
 
 ## Project Overview
 
